@@ -6,6 +6,5 @@ tasks:
       git config --global user.email "${TEC_EMAIL}"
       git config --local classify.fullname "${FULLNAME}"
       git config --local classify.github-user "${CLASSIFY_GITHUB_USER}"
+      git config --local classify.school-id ${CLASSIFY_SCHOOL_ID}
       git config --local classify.token ${CLASSIFY_TOKEN}
-    
-    
