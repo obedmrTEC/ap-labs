@@ -9,5 +9,6 @@ long calc(int operator, int nValues, int *values) {
 }
 
 int main() {
+    printf("Change")
     return -1;
 }
